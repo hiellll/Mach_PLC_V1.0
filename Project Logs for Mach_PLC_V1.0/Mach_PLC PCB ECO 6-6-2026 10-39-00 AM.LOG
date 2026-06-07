@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=XTAL2 Pin=Y1-1
+Removed Pin From Net: NetName=XTAL1 Pin=Y1-2
+Removed Member From Class: ClassName=Mach_PLC Member=Y1
+Added Component: Designator=X1(XT455k)
+Add component (AddParameter): Name = "Value"; Value = "32,768khz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=XTAL2 Pin=X1-1
+Added Pin To Net: NetName=XTAL1 Pin=X1-2
+Added Member To Class: ClassName=U_ESP8266 Member=Component R56 10k
+Added Member To Class: ClassName=U_ESP8266 Member=Component R57 10k
+Added Member To Class: ClassName=U_ESP8266 Member=Component R60 10k
+Added Member To Class: ClassName=Mach_PLC Member=Component X1 455Khz
+Added Room: Name=Mach_PLC
+Added Room: Name=U_A_INPUT
+Added Room: Name=U_D_INPUT
+Added Room: Name=U_D_OUTPUT
+Added Room: Name=U_ESP8266
+Added Room: Name=U_PWM_OUTPUT
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485
