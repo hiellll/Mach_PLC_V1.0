@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=XTAL2 Pin=X1-1
-Removed Pin From Net: NetName=XTAL1 Pin=X1-2
-Removed Member From Class: ClassName=Mach_PLC Member=X1
-Added Component: Designator=Y1(Thach Anh 2 chan SMD)
-Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
-Added Pin To Net: NetName=XTAL2 Pin=Y1-1
-Added Pin To Net: NetName=XTAL1 Pin=Y1-2
-Added Member To Class: ClassName=Mach_PLC Member=Component Y1 16Mhz

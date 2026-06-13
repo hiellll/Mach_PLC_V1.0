@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=DI_12 Pin=U1-81
-Added Pin To Net: NetName=DI_11 Pin=U1-82
-Added Pin To Net: NetName=DI_10 Pin=U1-83
-Added Member To Class: ClassName=Mach_PLC Member=Component L1 LED 0805
-Added Member To Class: ClassName=Mach_PLC Member=Component L2 LED 0805
-Added Member To Class: ClassName=Mach_PLC Member=Component R2 100R
-Added Member To Class: ClassName=Mach_PLC Member=Component R3 100R

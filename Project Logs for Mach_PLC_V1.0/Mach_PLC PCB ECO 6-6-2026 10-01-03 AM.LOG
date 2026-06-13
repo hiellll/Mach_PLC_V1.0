@@ -1,7 +1,0 @@
-Change Component Footprint: Designator=IC4 Old Footprint=DIP8/W0.3 New Footprint=SO-8
-Added Room: Name=Mach_PLC
-Added Room: Name=U_A_INPUT
-Added Room: Name=U_D_INPUT
-Added Room: Name=U_D_OUTPUT
-Added Room: Name=U_RS232
-Added Room: Name=U_RS485

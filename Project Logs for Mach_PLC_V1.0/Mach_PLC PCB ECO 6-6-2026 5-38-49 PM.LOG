@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=IN9 Pin=P1-1
-Removed Pin From Net: NetName=IN10 Pin=P1-2
-Removed Pin From Net: NetName=IN12 Pin=P1-4
-Removed Pin From Net: NetName=GND_CL Pin=P1-5
-Added Pin To Net: NetName=GND_CL Pin=P1-1
-Added Pin To Net: NetName=IN12 Pin=P1-2
-Added Pin To Net: NetName=IN10 Pin=P1-4
-Added Pin To Net: NetName=IN9 Pin=P1-5
