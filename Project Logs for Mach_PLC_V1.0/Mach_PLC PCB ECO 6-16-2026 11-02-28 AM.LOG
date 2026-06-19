@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=ESP_RX Pin=GND-2
+Removed Pin From Net: NetName=ESP_TX Pin=GND-3
+Removed Member From Class: ClassName=U_ESP8266 Member=C14
+Removed Member From Class: ClassName=U_ESP8266 Member=C21
+Removed Member From Class: ClassName=U_ESP8266 Member=C22
+Change Component Designator: OldDesignator=GND NewDesignator=JP2
+Added Pin To Net: NetName=ESP_TX Pin=JP2-2
+Added Pin To Net: NetName=ESP_RX Pin=JP2-3
+Added Member To Class: ClassName=U_ESP8266 Member=Component C15 10uF
+Added Member To Class: ClassName=U_ESP8266 Member=Component C16 104
+Added Member To Class: ClassName=U_ESP8266 Member=Component C17 104
+Added Member To Class: ClassName=U_BUCK CONVERTER Member=Component C18 470uF
+Added Member To Class: ClassName=U_BUCK CONVERTER Member=Component C19 470uF
+Added Member To Class: ClassName=U_BUCK CONVERTER Member=Component C20 470uF
+Added Member To Class: ClassName=U_ESP8266 Member=Component R58 10k
+Added Member To Class: ClassName=U_ESP8266 Member=Component R59 10k

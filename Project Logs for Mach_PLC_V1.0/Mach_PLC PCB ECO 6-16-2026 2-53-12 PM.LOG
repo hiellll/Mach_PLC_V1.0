@@ -1,0 +1,47 @@
+Removed Member From Class: ClassName=Mach_PLC Member=C15
+Removed Member From Class: ClassName=Mach_PLC Member=C16
+Removed Member From Class: ClassName=U_ESP8266 Member=C23
+Removed Member From Class: ClassName=U_ESP8266 Member=C24
+Added Component: Designator=C1(tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004554"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 10P 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004554"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 10P 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(Thach Anh 2 Chan 32,768 KHz)
+Add component (AddParameter): Name = "Value"; Value = "4Mhz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=XTAL3 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=XTAL4 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=XTAL4 Pin=Y1-1
+Added Pin To Net: NetName=XTAL3 Pin=Y1-2
+Added Member To Class: ClassName=Mach_PLC Member=Component C1 10pF
+Added Member To Class: ClassName=Mach_PLC Member=Component C2 10pF
+Added Member To Class: ClassName=Mach_PLC Member=Component C3 22pF
+Added Member To Class: ClassName=Mach_PLC Member=Component C4 104
+Added Member To Class: ClassName=Mach_PLC Member=Component C5 22pF
+Added Member To Class: ClassName=Mach_PLC Member=Component C6 10uF
+Added Member To Class: ClassName=Mach_PLC Member=Component C7 104
+Added Member To Class: ClassName=Mach_PLC Member=Component C8 104
+Added Member To Class: ClassName=Mach_PLC Member=Component C9 104
+Added Member To Class: ClassName=Mach_PLC Member=Component C10 104
+Added Member To Class: ClassName=Mach_PLC Member=Component C11 104
+Added Member To Class: ClassName=Mach_PLC Member=Component C12 104
+Added Member To Class: ClassName=U_RS232 Member=Component C13 104
+Added Member To Class: ClassName=U_RS232 Member=Component C14 104
+Added Member To Class: ClassName=U_ESP8266 Member=Component C17 10uF
+Added Member To Class: ClassName=U_ESP8266 Member=Component C18 104
+Added Member To Class: ClassName=U_ESP8266 Member=Component C19 104
+Added Member To Class: ClassName=U_BUCK CONVERTER Member=Component C20 470uF
+Added Member To Class: ClassName=U_BUCK CONVERTER Member=Component C21 470uF
+Added Member To Class: ClassName=U_BUCK CONVERTER Member=Component C22 470uF
+Added Member To Class: ClassName=Mach_PLC Member=Component Y1 32.768Mhz
